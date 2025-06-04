@@ -1,0 +1,4 @@
+menuconfig CEVA_SH2
+    bool "SH2 Sensorhub driver for MCU application"
+    help
+      Provides application-level SH2 sensor hub functionality.
